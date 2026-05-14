@@ -45,5 +45,8 @@ Using the equations above, determine the dispersion-limited fiber length.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8306d942-62fb-4ee5-8f32-19312ba6eae3" />
 <img width="1920" height="1080" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/22da54e2-d46c-43da-998b-c2101522300f" />
 
+<img width="844" height="1600" alt="image" src="https://github.com/user-attachments/assets/1716fa47-8979-49fe-92be-4105d55e668e" />
+<img width="1600" height="1544" alt="image" src="https://github.com/user-attachments/assets/42f49567-7ab3-4adf-a988-43cd29ea3294" />
+
 # Result
 The dispersion-limited fiber length for the given optical communication system was found to be approximately 10 km. The simulation results showed acceptable BER performance with a clear eye diagram and minimal intersymbol interference. Hence, the system performance was satisfactory and remained within the allowable dispersion limit.
